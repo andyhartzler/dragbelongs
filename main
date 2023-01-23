@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Oppose Drag Queen Story Hour Ban</title>
+    <style>
+      /* Styling for the button */
+      .email-button {
+        font-size: 45px;
+        font-family: Arial, sans-serif;
+        padding: 80px;
+        background-color: #0057B8; /* Trans Flag Blue */
+        color: #FAB0B0; /* Pink */
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 50px auto;
+        font-weight: bold;
+        text-shadow: 0px 0px 10px white;
+      }
+      /* Styling for the container */
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="mailto:kevin.west@okhouse.gov?cc=West41@att.net&subject=Opposition to Proposed Legislation&body=Dear Representative West,%0A%0AI am writing to express my opposition to the proposed legislation that you have introduced, which aims to ban Drag Queen Story Hour events in Oklahoma. I believe that this legislation is unnecessary and unconstitutional as it infringes on the free speech and artistic expression of private venues, performers, artists and willing audiences.%0A%0AI understand that the proposed legislation would classify drag shows as akin to pornography and redefine venues hosting them as adult businesses, which would be a violation of the First Amendment. Furthermore, I am aware that there is no evidence that any child has been harmed as a result of a drag performance, and that drag shows do not groom children into LGBTQ activism or lifestyle.%0A%0AHowever, I would like to bring to your attention another major issue that is affecting the well-being of children in Oklahoma and the entire United States, gun violence. According to the Centers for Disease Control and Prevention (CDC), guns are the leading cause of death for children in the United States, with more than 3,000 children and teenagers dying from firearm-related injuries each year. Children are also at risk of unintentional shootings, which occur when a child gains access to a loaded and unsecured firearm.%0A%0AI urge you to reconsider this proposed legislation and to focus on more pressing issues that affect the well-being of children in Oklahoma. I strongly believe that effective measures such as universal background checks, safe storage laws, and extreme risk protection laws can help reduce the number of deaths and injuries caused by firearms.%0A%0AThank you for your time and consideration.%0A%0ASincerely,%0A[Your Name]" class="email-button">SEND THIS EMAIL TO REPRESENTATIVE WEST</a>
+    </div>
+  </body>
+</html>
